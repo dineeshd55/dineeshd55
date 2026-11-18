@@ -29,8 +29,6 @@ I am interested in software development, artificial intelligence, problem-solvin
 **Tools & Technologies**
 - Git and GitHub
 - VS Code
-- React Native / Expo (Learning)
-- Supabase (Learning)
 
 ### Currently Learning
 - Data Structures and Algorithms
